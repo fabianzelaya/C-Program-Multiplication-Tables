@@ -65,3 +65,5 @@ The program will produce a series of multiplication tables, from 1x0 to 10x12, e
 | 10| 20 | 40 | 60 | 80 | 100| 120| 140| 160| 180| 200| 220| 240|
 
 <!-- Continue with tables for numbers 3 to 10 -->
+
+You can continue this pattern to create tables for numbers 3 to 10 as well. This Markdown format can be used in your GitHub README file to display the multiplication tables.
